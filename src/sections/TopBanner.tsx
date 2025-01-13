@@ -32,7 +32,7 @@ export default function TopBanner() {
         <div className="p-5 min-h-[200px] flex justify-center items-center">
           <div className="flex flex-col justify-center items-center gap-y-6">
             <p className="text-[#152536] text-center font-medium text-xs md:text-base md:leading-[21px]">
-            AI and ML are driving the future of innovation, making them essential skills for high-demand careers. Investing in these courses helps students master data-driven decision-making, automation, and problem-solving, boosting their employability in a competitive job market. Stay ahead by learning technologies that are shaping tomorrow.
+            Care2 Training Consultancy offers a range of expert services to help individuals achieve their global ambitions. Whether you’re a student seeking to study abroad, a professional looking for work opportunities overseas, or someone planning to relocate, we provide end-to-end support. Our services include personalized consultation, visa assistance, documentation guidance, and interview preparation, ensuring a smooth and hassle-free process. With a strong network and years of experience, we simplify complex procedures and help you make informed decisions. Trust us to turn your dreams of studying, working, or living abroad into a successful reality.
             </p>
             <div>
               <a
