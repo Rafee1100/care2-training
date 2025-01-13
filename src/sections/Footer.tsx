@@ -5,6 +5,7 @@ import XaxisNegative from "@/components/animation/XaxisNegative";
 import XaxisPositive from "@/components/animation/XaxisPositive";
 import YaxisNegative from "@/components/animation/YaxisNegative";
 import Link from "next/link";
+import footerImage from '../../public/images/logo-Care2.webp'
 
 const navigation = {
   rules: [
@@ -142,8 +143,9 @@ export default function Footer() {
       <div className="container">
         <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 xl:gap-8">
           <XaxisPositive classes="space-y-4">
+            
             <ImageComp
-              imageUrl={`/images/logo-care2.webp`}
+              imageUrl={footerImage}
               classes="h-7"
               width={55}
               height={70}
