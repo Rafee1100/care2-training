@@ -82,14 +82,14 @@ export default function HeroSections() {
               href={""}
               target="_blank"
             >
-              <button className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[167px] min-w-[167px] h-[40px]   rounded-[4px]">
+              <button className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[167px] min-w-[167px] h-[40px]   rounded-[4px]">
                 <span className="text-white text-sm leading-7 tracking-[1.25%]">
                   Sign up now
                 </span>
               </button>
             </Link>
             <Link href={"/contact"}>
-              <button className="group hover:bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[130px] min-w-[130px] h-[40px] border-gradient rounded-[4px]">
+              <button className="group hover:bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[130px] min-w-[130px] h-[40px] border-gradient rounded-[4px]">
                 <span className="text-gradient group-hover:text-white text-sm leading-7 tracking-[1.25%]">
                   Contact us
                 </span>
@@ -112,7 +112,7 @@ export default function HeroSections() {
               />
             </div>
           </XaxisNegative>
-          <XaxisPositive classes="absolute  inset-0 top-1/3 -z-10 h-[140px] sm:h-[242px] rounded-[28px] bg-gradient-to-r from-[#45D8FF] to-[#005BEA]"></XaxisPositive>
+          <XaxisPositive classes="absolute  inset-0 top-1/3 -z-10 h-[140px] sm:h-[242px] rounded-[28px] bg-gradient-to-r from-[#45D8FF] to-[#0D1A73]"></XaxisPositive>
         </div>
       </div>
     </>

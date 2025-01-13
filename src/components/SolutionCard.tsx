@@ -48,12 +48,12 @@ export default function SolutionCard({ solution, customClass }: any) {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="#45D8FF" />
-              <stop offset="0.891573" stopColor="#005BEA" />
+              <stop offset="0.891573" stopColor="#0D1A73" />
             </linearGradient>
           </defs>
         </svg>
 
-        <span className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent font-medium  bg-clip-text text-sm leading-[21px] tracking-[1.25%]">
+        <span className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent font-medium  bg-clip-text text-sm leading-[21px] tracking-[1.25%]">
           {solution?.btnText ? solution?.btnText : "Learn more"}
         </span>
       </Link>

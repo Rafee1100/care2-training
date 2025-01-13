@@ -45,7 +45,7 @@ export default function WhyChoseUs() {
         <div className="flex flex-col sm:flex-row  gap-3">
           <XaxisPositive classes="pt-[40px] container">
             <div className="text-center">
-              <span className=" uppercase bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px] tracking-[0.4%]">
+              <span className=" uppercase bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px] tracking-[0.4%]">
                Why Choose
               </span>
               <h3 className="text-xl leading-[36px] sm:text-[32px] text-[#152536] sm:leading-[48px] text-left">

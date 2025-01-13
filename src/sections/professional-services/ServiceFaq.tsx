@@ -33,7 +33,7 @@ export default function ServiceFaq() {
             </p>
           </div>
           <Link href={"/contact"}>
-            <button className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[167px] min-w-[167px] h-[40px]   rounded-[4px]">
+            <button className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[167px] min-w-[167px] h-[40px]   rounded-[4px]">
               <span className="text-white text-sm leading-7 tracking-[1.25%]">
                 Contact us
               </span>
@@ -47,7 +47,7 @@ export default function ServiceFaq() {
                 <div
                   className={`${
                     open
-                      ? "bg-gradient-to-r from-[#005BEA] to-[#45D8FF]"
+                      ? "bg-gradient-to-r from-[#0D1A73] to-[#45D8FF]"
                       : "bg-[#F6F8FA]"
                   }  py-4 px-3 rounded-[8px]`}
                 >

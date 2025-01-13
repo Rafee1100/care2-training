@@ -151,7 +151,7 @@ export default function Page() {
                   <button
                     disabled={loading}
                     type="submit"
-                    className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-full h-[34px]   rounded-[4px]"
+                    className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-full h-[34px]   rounded-[4px]"
                   >
                     <span className="text-white uppercase text-sm leading-7 tracking-[1.25%]">
                       {loading ? "Processing.." : "SEND"}

@@ -4,7 +4,7 @@ export default function AboutUs() {
   return (
     <XaxisPositive classes="pt-[40px] container">
       <div className="text-right">
-        <span className=" uppercase bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px] tracking-[0.4%]">
+        <span className=" uppercase bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px] tracking-[0.4%]">
           About Us
         </span>
         <h3 className="text-xl leading-[36px] sm:text-[32px] text-[#152536] sm:leading-[48px]">

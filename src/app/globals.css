@@ -4,7 +4,7 @@
 
 @layer components {
   .text-gradient {
-    @apply bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent bg-clip-text;
+    @apply bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent bg-clip-text;
   }
 }
 
@@ -18,7 +18,7 @@
   inset: 0;
   border-radius: 4px;
   padding: 1px;
-  background: linear-gradient(to right, #005BEA, #45D8FF);
+  background: linear-gradient(to right, #0D1A73, #45D8FF);
   -webkit-mask:
     linear-gradient(#fff 0 0) content-box,
     linear-gradient(#fff 0 0);
@@ -46,7 +46,7 @@
 }
 
 .hover-border-gradient:hover::before {
-  background: linear-gradient(to right, #005BEA, #45D8FF);
+  background: linear-gradient(to right, #0D1A73, #45D8FF);
 }
 
 .feature-slider .slick-dots {

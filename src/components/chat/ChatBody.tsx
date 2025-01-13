@@ -43,7 +43,7 @@ export default function ChatBody({ setIsChatOpen }: any) {
   };
   return (
     <div className="sm:max-w-[365px] sm:min-w-[365px] w-full min-h-[596px] rounded-[8px] bg-white shadow-[0px_6px_24px_0px_#00000029] overflow-hidden">
-      <div className="h-[60px] px-6 flex items-center justify-between w-full max-h-[60px] bg-gradient-to-r from-[#005BEA] to-[#45D8FF] shadow-[0px_4px_12px_0px_#00000014]">
+      <div className="h-[60px] px-6 flex items-center justify-between w-full max-h-[60px] bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] shadow-[0px_4px_12px_0px_#00000014]">
         <span onClick={() => setIsChatOpen(false)} className="cursor-pointer">
           <svg
             width="9"
@@ -125,8 +125,8 @@ export default function ChatBody({ setIsChatOpen }: any) {
           <Fragment key={index}>
             <div className="flex justify-end items-end">
               <div className="max-w-[282px] flex flex-wrap gap-2 justify-end">
-                <div className="bg-gradient-to-r from-[#005BEA14] to-[#45D8FF14] px-3 min-h-[32px] py-1 flex items-center  rounded-[4px]">
-                  <span className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px]">
+                <div className="bg-gradient-to-r from-[#0D1A7314] to-[#45D8FF14] px-3 min-h-[32px] py-1 flex items-center  rounded-[4px]">
+                  <span className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px]">
                     {item?.question}
                   </span>
                 </div>
@@ -173,10 +173,10 @@ export default function ChatBody({ setIsChatOpen }: any) {
             {defaultChatTexts?.map((chatquestion: any, index: number) => (
               <div
                 key={index}
-                className="bg-gradient-to-r from-[#005BEA14] to-[#45D8FF14] px-3 min-h-[32px] py-1 flex items-center  rounded-[4px] cursor-pointer"
+                className="bg-gradient-to-r from-[#0D1A7314] to-[#45D8FF14] px-3 min-h-[32px] py-1 flex items-center  rounded-[4px] cursor-pointer"
                 onClick={() => handleChat(chatquestion)}
               >
-                <span className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px]">
+                <span className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-transparent  bg-clip-text text-xs leading-[18px]">
                   {chatquestion?.question}
                 </span>
               </div>

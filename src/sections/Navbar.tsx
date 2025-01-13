@@ -92,7 +92,7 @@ export default function Navbar() {
                   href=""
                   target="_blank"
                 >
-                  <button className="group hover:bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px] border-gradient rounded-[4px]">
+                  <button className="group hover:bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px] border-gradient rounded-[4px]">
                     <span className="text-gradient group-hover:text-white text-sm leading-7 tracking-[1.25%]">
                       Log in
                     </span>
@@ -102,7 +102,7 @@ export default function Navbar() {
                   href=""
                   target="_blank"
                 >
-                  <button className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
+                  <button className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
                     <span className="text-white text-sm leading-7 tracking-[1.25%]">
                       Sign up
                     </span>
@@ -191,7 +191,7 @@ export default function Navbar() {
                     href=""
                     target="_blank"
                   >
-                    <button className="group hover:bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px] border-gradient rounded-[4px]">
+                    <button className="group hover:bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px] border-gradient rounded-[4px]">
                       <span className="text-gradient hover:text-white text-sm leading-7 tracking-[1.25%]">
                         Log in
                       </span>
@@ -201,7 +201,7 @@ export default function Navbar() {
                     href=""
                     target="_blank"
                   >
-                    <button className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
+                    <button className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
                       <span className="text-white text-sm leading-7 tracking-[1.25%]">
                         Sign up
                       </span>

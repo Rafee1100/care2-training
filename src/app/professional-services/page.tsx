@@ -60,7 +60,7 @@ export default function page() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="#45D8FF" />
-              <stop offset="0.891573" stopColor="#005BEA" />
+              <stop offset="0.891573" stopColor="#0D1A73" />
             </linearGradient>
             <linearGradient
               id="paint1_linear_279_25518"
@@ -71,7 +71,7 @@ export default function page() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="#45D8FF" />
-              <stop offset="0.891573" stopColor="#005BEA" />
+              <stop offset="0.891573" stopColor="#0D1A73" />
             </linearGradient>
             <linearGradient
               id="paint2_linear_279_25518"
@@ -82,7 +82,7 @@ export default function page() {
               gradientUnits="userSpaceOnUse"
             >
               <stop stopColor="#45D8FF" />
-              <stop offset="0.891573" stopColor="#005BEA" />
+              <stop offset="0.891573" stopColor="#0D1A73" />
             </linearGradient>
           </defs>
         </svg>
@@ -138,7 +138,7 @@ export default function page() {
         alt="Image"
       />
       <div id="digitalTransformation">
-        <XaxisPositive classes="mt-[170px] bg-gradient-to-r from-[#005BEA] to-[#45D8FF]">
+        <XaxisPositive classes="mt-[170px] bg-gradient-to-r from-[#0D1A73] to-[#45D8FF]">
           <div className="pt-[79px] pb-[90px] container grid sm:grid-cols-5 gap-10 relative">
             <YaxisNegative classes="sm:col-span-2 relative">
               <span className="absolute left-[242px]">
@@ -219,7 +219,7 @@ export default function page() {
                       gradientUnits="userSpaceOnUse"
                     >
                       <stop stopColor="#45D8FF" />
-                      <stop offset="0.891573" stopColor="#005BEA" />
+                      <stop offset="0.891573" stopColor="#0D1A73" />
                     </linearGradient>
                     <linearGradient
                       id="paint1_linear_279_25395"
@@ -230,7 +230,7 @@ export default function page() {
                       gradientUnits="userSpaceOnUse"
                     >
                       <stop stopColor="#45D8FF" />
-                      <stop offset="0.891573" stopColor="#005BEA" />
+                      <stop offset="0.891573" stopColor="#0D1A73" />
                     </linearGradient>
                   </defs>
                 </svg>
@@ -316,7 +316,7 @@ export default function page() {
           </XaxisPositive>
           <div className="w-full sm:w-auto">
             <div className="relative w-full rounded-tl-[36px] rounded-br-[36px]  sm:w-[45vw] lg:w-[548px] h-[200px] lg:h-[316px]">
-              <YaxisPositive classes="absolute w-full rounded-tl-[36px] rounded-br-[36px]  sm:w-[45vw] lg:w-[548px] h-[200px] lg:h-[316px] bg-gradient-to-r from-[#005BEA] to-[#45D8FF]"></YaxisPositive>
+              <YaxisPositive classes="absolute w-full rounded-tl-[36px] rounded-br-[36px]  sm:w-[45vw] lg:w-[548px] h-[200px] lg:h-[316px] bg-gradient-to-r from-[#0D1A73] to-[#45D8FF]"></YaxisPositive>
               <YaxisNegative classes="rounded-tl-[36px] absolute top-[20px] left-[20px] lg:top-[50px] lg:left-[50px] rounded-br-[36px] w-full sm:max-w-[45vw] lg:max-w-[548px] nax-h-[316px]">
                 <Image
                   src={livingAbroad}
@@ -339,7 +339,7 @@ export default function page() {
           className="absolute left-0 top-0 h-[148px] max-h-[148px]"
           alt="Image"
         />
-        <div className="py-4 md:py-0 md:h-[146px] md:max-h-[146px] flex items-center bg-gradient-to-r from-[#005BEA] to-[#45D8FF]">
+        <div className="py-4 md:py-0 md:h-[146px] md:max-h-[146px] flex items-center bg-gradient-to-r from-[#0D1A73] to-[#45D8FF]">
           <div className=" relative z-20 container flex flex-col md:flex-row gap-4 items-center justify-between">
             <div className="text-center md:text-left flex flex-col gap-2.5">
               <h4 className="text-white font-medium text-base md:text-xl md:leading-[30px]">
@@ -352,7 +352,7 @@ export default function page() {
             <div>
               <Link
                 href={"/contact"}
-                className="group hover:bg-gradient-to-r from-[#005BEA] to-[#45D8FF] bg-white w-[142px] min-w-[142px] h-[40px] justify-center flex items-center gap-2 rounded-[4px]"
+                className="group hover:bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] bg-white w-[142px] min-w-[142px] h-[40px] justify-center flex items-center gap-2 rounded-[4px]"
               >
                 <span className="group-hover:hidden">
                   <svg
@@ -378,7 +378,7 @@ export default function page() {
                         gradientUnits="userSpaceOnUse"
                       >
                         <stop stopColor="#45D8FF" />
-                        <stop offset="0.891573" stopColor="#005BEA" />
+                        <stop offset="0.891573" stopColor="#0D1A73" />
                       </linearGradient>
                     </defs>
                   </svg>

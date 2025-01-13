@@ -21,7 +21,7 @@ export default function Page() {
     additionalInformation: "",
   });
   const [loading, setLoading] = useState(false);
-  const handleBookDemoForm = async (e: any) => {
+  const handleBookContactForm = async (e: any) => {
     e.preventDefault();
     setLoading(true);
     try {
@@ -46,7 +46,7 @@ export default function Page() {
             <h3 className="text-xl leading-[30px] font-medium text-[#152536]">
               Contact us
             </h3>
-            <form onSubmit={handleBookDemoForm}>
+            <form onSubmit={handleBookContactForm}>
               <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <div>
                   <label
@@ -173,7 +173,7 @@ export default function Page() {
                   <button
                     disabled={loading}
                     type="submit"
-                    className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-full h-[34px]   rounded-[4px]"
+                    className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-full h-[34px]   rounded-[4px]"
                   >
                     <span className="text-white uppercase text-sm leading-7 tracking-[1.25%]">
                       {loading ? "Processing.." : "SEND"}

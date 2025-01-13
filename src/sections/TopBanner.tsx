@@ -39,7 +39,7 @@ export default function TopBanner() {
                 href=""
                 target="_blank"
               >
-                <button className="bg-gradient-to-r from-[#005BEA] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
+                <button className="bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] w-[104px] min-w-[104px] h-[34px]   rounded-[4px]">
                   <span className="text-white text-sm leading-7 tracking-[1.25%]">
                     Sign up
                   </span>

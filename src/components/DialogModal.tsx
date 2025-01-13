@@ -39,7 +39,7 @@ export default function DialogModal({ open, setOpen, children }: any) {
             >
               <Dialog.Panel className="relative transform rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 w-full sm:max-w-2xl lg:max-w-4xl">
                 <button
-                  className="mb-5 h-12 w-12 rounded-full bg-gradient-to-r from-[#005BEA] to-[#45D8FF] text-white  absolute -top-6 -right-6"
+                  className="mb-5 h-12 w-12 rounded-full bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] text-white  absolute -top-6 -right-6"
                   onClick={() => setOpen(false)}
                 >
                   <svg

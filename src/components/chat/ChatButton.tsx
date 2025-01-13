@@ -4,7 +4,7 @@ export default function ChatButton({ setIsChatOpen }: any) {
   return (
     <div
       onClick={() => setIsChatOpen(true)}
-      className="w-[56px] cursor-pointer h-[56px] rounded-full bg-gradient-to-r from-[#005BEA] to-[#45D8FF] flex justify-center items-center shadow-[0px_4px_12px_0px_#00000014]"
+      className="w-[56px] cursor-pointer h-[56px] rounded-full bg-gradient-to-r from-[#0D1A73] to-[#45D8FF] flex justify-center items-center shadow-[0px_4px_12px_0px_#00000014]"
     >
       <svg
         width="24"
